@@ -15,7 +15,7 @@ function checkPrime (num) {
   else
     console.log(num + ' is not prime number')
 }
-checkPrime(5)
+checkPrime(5) 
 checkPrime(6)
 
 // Another Approach
