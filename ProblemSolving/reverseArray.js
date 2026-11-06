@@ -6,7 +6,7 @@ function reverseArray(arr) {
   }
 
   return reversed;
-}
+}  
 
 let arr = [1, 2, 3, 4, 5];
 
